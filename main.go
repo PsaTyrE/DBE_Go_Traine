@@ -7,4 +7,6 @@ func main() {
 	fmt.Println("hell guys")
 	fmt.Println("hell bro")
 	fmt.Println("hello brader")
+
+	fmt.Println("futureB")
 }
